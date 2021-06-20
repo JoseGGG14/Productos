@@ -1,0 +1,127 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 30px verdana, sans-serif;
+}
+header, section, footer, aside, article, figure, figcaption, hgroup {
+	display: block;
+}
+body{
+	text-align: center;
+	background-color: blue;
+}
+#Contenido{
+	width: 700px;
+	height: 300px;
+	margin: 15px;
+	text-align: left;
+}
+#titulo{
+	background: #ffaa22;
+	border: 5px solid #000000;
+	padding: 20px;
+	color: black;
+	text-align: center;
+}
+#navegacion{
+	width: 670px;
+	background: #17CA4D;
+	padding: 14px 15px;
+	margin-top: 1px;
+}
+#menu li{
+	display: inline-block;
+	list-style: none;
+	padding: 7px;
+	border-radius: 15px;
+	font: bold 14px verdana, sans-serif;
+	color: black;
+	width: 150px;
+	margin-left: 100px;
+	text-align: center;
+	background: #1CD1D6;
+	border: 3px solid #000000;
+}
+#seccion0{
+	float: right;
+	width: 250px;
+	height: 609px;
+	background: #1CD1D6;
+	text-align: left;
+}
+#img1{
+	width: 220px;
+	height: 200px;
+	margin-left: 15px;
+}
+#img2{
+	width: 220px;
+	height: 200px;
+	margin-left: 15px;
+}
+#seccion00{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: #CFC5C3;
+}
+#img3{
+	width: 220px;
+	height: 200px;
+}
+#seccion{
+	float: left;
+	width: 226px;
+	height: 200px;
+	background: #DBDB22;
+	margin-left: 2px;
+}
+#seccion01{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: white;
+	margin-top: 2px;
+}
+#img4{
+	width: 220px;
+	height: 200px;
+}
+#seccion1{
+	float: left;
+	width: 226px;
+	height: 200px;
+	background: #DBDB22;
+	margin-top: 2px;
+	margin-left: 2px;
+}
+#seccion02{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: white;
+	margin-top: 2px;
+}
+#img5{
+	width: 220px;
+	height: 200px;
+	margin-top: 5px;
+}
+#seccion2{
+	float: left;
+	width: 226px;
+	height: 205px;
+	margin-top: 2px;
+	background: #DBDB22;
+	margin-left: 2px;
+}
+#pie{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 7px solid #ffaa22;
+	background: black;
+	color: white;
+}
